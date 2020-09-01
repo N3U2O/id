@@ -1,0 +1,111 @@
+név: Gugyin Adrián
+
+születési adatok: Budapest, 1986.04.20
+anyja neve: Gugyin Ilona
+apja neve: Jakab Ferenc
+
+lakóhelye: 2360, Gyál, Ady Endre utca 35.
+
+eddigi munkahelyei:
+===================
+2012 Evosoft Hungary Kft./Mûisz Kft.
+pozíció:
+    egyéb szoftverfejlesztõ, elemzõ
+munkakör:
+    Tcl/Tk debugging
+---------------------------------------------------------------------
+2014-2017 BEKO Engineering Kft.
+pozíció:
+    szoftvertesztelõ, fejlesztõ
+munkakör:
+    1. Bosch Engineering Center Budapest
+        a) AE-BE osztály:
+            VW MQB projektben BCM ECU SW fejlesztése, unittesztelése
+            karosszériaelektronika, világítás, központi zár, stb.
+            követelmény és design dokumentáció és CM szerkesztése
+            VectorCAST piloting, kapcsolattartás a supporttal
+        b) GS-TC osztály:
+            LabCar eszközökön és 
+            Bosch TCU-k különféle autógyártóknak HiL tesztelése és
+            tesztdokumentáció írása, automata tesztek végrehajtása
+    2. Knorr-Bremse Hungary Kft.
+        IBC vasúti fékrendszer szervíz SW link tesztelése TS alapján
+---------------------------------------------------------------------
+2018-2019 AVL Autókut Mérnöki Kft.
+helyek:
+    Budapest Csóka utca 7-11
+    Budapest Science Park
+    Graz AVL Campus
+pozíció:
+    szoftverfejlesztõ mérnök
+munkakör:
+    1. BSW osztály
+        Infineon TriCore architektúrájú ECU eszközön motorvezérlõ
+        AUTOSAR BSW fejlesztése C nyelven/konfigurátorral, python,
+        MKS Integrity, Tresos Studio, VectorCAST szoftverekkel
+    2. ITS osztály
+        Belsõ mûszerfejlesztés, MPIO analóg, digitális és hõmérsék-
+        let mérõ, adatgyûjtõ modul fejlesztése C++ nyelven TI uC-n
+
+végzett tanulmányai:
+====================
+2000 Általános iskolai bizonyítvány
+    Ady Endre Általános Iskola
+    Gyál, Ady Endre utca 20.
+---------------------------------------------------------------------
+2004 Gimnáziumi érettségi bizonyítvány
+    ELTE Apáczai Csere János Gyakorlógimnázium
+    Budapest V. Papnevelde utca 4-6.
+szak:
+    Komplex Természettudományi Tagozat
+---------------------------------------------------------------------
+2012 Villamosmérnöki oklevél
+    Budapesti Mûszaki és Gazdaságtudományi Egyetem
+    Villamosmérnöki és Informatikai Kar
+    Budapest XI. Egry József u. 1.
+szak:
+    B.Sc. Villamosmérnök
+szakirány:
+    Infokommunikáció
+ágazat:
+    Nagyfrekvenciás rendszerek
+mellékszakágak:
+    Funkcionálanalízis, Káoszelmélet (BME-TTK)
+    Logikai tervezés (BME-IIT)
+    
+szakdolgozat:
+    Adatgyûjtõ API fejlesztése mûholdfedélzeti kísérlethez
+    # kulcskifejezések:
+        ESEO-LMP, 8051, Actel FPGA, elektronhõmérséklet
+---------------------------------------------------------------------
+
+további képzései:
+=================
+2005-2006 Villamos-mérnökasszisztens OKJ képzés
+    Óbudai Egyetem (Budapesti Mûszaki Fõiskola)
+    Kandó Kálmán Villamosmérnöki Kar
+    Budapest III. Bécsi út 60.
+szak:
+    Automatika
+---------------------------------------------------------------------
+2012-2016 Villamosmérnöki mesterképzés
+    Budapesti Mûszaki és Gazdaságtudományi Egyetem
+    Villamosmérnöki és Informatikai Kar
+    Budapest XI. Egry József u. 1.
+szak:
+    M.Sc. Villamosmérnök
+specializáció:
+    Szélessávú és vezetéknélküli kommunikáció
+mellékszakágak:
+    Nanotechnológia (BME-ETT)
+    Számítógépes biológia (AIT)
+szakdolgozat:
+    Element-by-Element végeselem módszer implementációja
+    párhuzamos számítási környezetben
+    # kulcskifejezések:
+        CUDA, GPU, roncsolásmentes anyagvizsgálat, élszínezés
+---------------------------------------------------------------------
+
+tanúsítványok:
+==============
+2015 ISTQB Certified Tester Foundation Level
